@@ -19,8 +19,6 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-
-//Comment Mari Me ama  . . .
 -(void) namanMethod{
 
 
